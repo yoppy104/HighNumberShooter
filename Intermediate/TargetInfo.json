@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HighNumberShooting",
+			"Path": "C:\\Users\\Yoppy\\Documents\\Unreal Projects\\HighNumberShooting\\Source\\HighNumberShooting.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HighNumberShootingEditor",
+			"Path": "C:\\Users\\Yoppy\\Documents\\Unreal Projects\\HighNumberShooting\\Source\\HighNumberShootingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HighNumberShooting.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\HighNumberShootingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\HighNumberShooting.cpp.obj"
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\HighNumberShootingGameModeBase.cpp.obj"
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\HighNumberShooting.init.gen.cpp.obj"
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\HighNumberShootingGameModeBase.gen.cpp.obj"
+"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\Default.rc2.res"
+/OUT:"C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\UE4Editor-HighNumberShooting.lib"

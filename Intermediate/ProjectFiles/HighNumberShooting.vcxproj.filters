@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HighNumberShooting.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{137DEFEE-B687-4F27-A68C-F8F6CE8673A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HighNumberShooting.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HighNumberShootingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E1126906-14A2-4BB7-85B5-911D8945686C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HighNumberShooting">
+      <UniqueIdentifier>{824B3A8B-DC6E-4832-87B1-122FDFC20B2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HighNumberShooting\HighNumberShooting.Build.cs">
+      <Filter>Source\HighNumberShooting</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HighNumberShooting\HighNumberShooting.cpp">
+      <Filter>Source\HighNumberShooting</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HighNumberShooting\HighNumberShooting.h">
+      <Filter>Source\HighNumberShooting</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HighNumberShooting\HighNumberShootingGameModeBase.cpp">
+      <Filter>Source\HighNumberShooting</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HighNumberShooting\HighNumberShootingGameModeBase.h">
+      <Filter>Source\HighNumberShooting</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

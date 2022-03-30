@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Yoppy\\Documents\\Unreal Projects\\HighNumberShooting\\Source\\HighNumberShooting\\HighNumberShooting.Build.cs",
+		"C:\\Users\\Yoppy\\Documents\\Unreal Projects\\HighNumberShooting\\Source\\HighNumberShooting.Target.cs",
+		"C:\\Users\\Yoppy\\Documents\\Unreal Projects\\HighNumberShooting\\Source\\HighNumberShootingEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,2 @@
+C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Intermediate\Build\Win64\UE4Editor\Development\HighNumberShooting\Definitions.HighNumberShooting.h
+C:\Users\Yoppy\Documents\Unreal Projects\HighNumberShooting\Source\HighNumberShooting\HighNumberShooting.h
